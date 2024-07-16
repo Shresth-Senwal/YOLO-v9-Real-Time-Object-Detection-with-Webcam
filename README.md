@@ -8,8 +8,6 @@
 - [Usage]
 - [Customization]
 - [Issues Faced]
-- [Examples]
-- [Contributing]
 - [License]
 ## Introduction
 
