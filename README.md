@@ -11,9 +11,6 @@
 - [Examples]
 - [Contributing]
 - [License]
-- [Acknowledgements]
-- [Contact]
-
 ## Introduction
 
 This project implements YOLO v9 for real-time object detection using a webcam. YOLO (You Only Look Once) is a state-of-the-art object detection algorithm known for its speed and accuracy. This project integrates YOLO v9 to perform real-time detection using a computer's webcam.
